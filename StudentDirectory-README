@@ -1,0 +1,7 @@
+Student Directory Project
+This project implements a system which lists students and their academic programs. 
+Each program has its required course list and each student has a list of his/her courses taken. 
+Each course has a course name, number, and/or grade. 
+The application is to use a menu to answer several questions such as a particular student 
+information and his/her courses taken, student gpa, a course average, students registered in one program, etc. 
+The project presents this menu in terminal or via GUI windows. 
